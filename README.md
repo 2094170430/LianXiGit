@@ -1,2 +1,0 @@
-# LianXiGit
-学习
