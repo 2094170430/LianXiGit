@@ -1,0 +1,14 @@
+D:\Games\Xuexi\c#lesson\飞行棋\bin\Debug\飞行棋.exe.config
+D:\Games\Xuexi\c#lesson\飞行棋\bin\Debug\飞行棋.exe
+D:\Games\Xuexi\c#lesson\飞行棋\bin\Debug\飞行棋.pdb
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.csproj.AssemblyReference.cache
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.csproj.CoreCompileInputs.cache
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.exe
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.pdb
+E:\孟塬的代码库\LianXi\飞行棋pro\bin\Debug\飞行棋.exe.config
+E:\孟塬的代码库\LianXi\飞行棋pro\bin\Debug\飞行棋.exe
+E:\孟塬的代码库\LianXi\飞行棋pro\bin\Debug\飞行棋.pdb
+E:\孟塬的代码库\LianXi\飞行棋pro\obj\Debug\飞行棋.csproj.AssemblyReference.cache
+E:\孟塬的代码库\LianXi\飞行棋pro\obj\Debug\飞行棋.csproj.CoreCompileInputs.cache
+E:\孟塬的代码库\LianXi\飞行棋pro\obj\Debug\飞行棋.exe
+E:\孟塬的代码库\LianXi\飞行棋pro\obj\Debug\飞行棋.pdb

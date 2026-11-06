@@ -1,0 +1,7 @@
+D:\Games\Xuexi\c#lesson\飞行棋\bin\Debug\飞行棋.exe.config
+D:\Games\Xuexi\c#lesson\飞行棋\bin\Debug\飞行棋.exe
+D:\Games\Xuexi\c#lesson\飞行棋\bin\Debug\飞行棋.pdb
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.csproj.AssemblyReference.cache
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.csproj.CoreCompileInputs.cache
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.exe
+D:\Games\Xuexi\c#lesson\飞行棋\obj\Debug\飞行棋.pdb

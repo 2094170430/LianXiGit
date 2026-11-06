@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\Xuexi\\c#lesson\\\u98DE\u884C\u68CB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A66CBEC-FA5F-4C7A-966B-097CCE7A75FE}|\u98DE\u884C\u68CB.csproj|d:\\games\\xuexi\\c#lesson\\\u98DE\u884C\u68CB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A66CBEC-FA5F-4C7A-966B-097CCE7A75FE}|\u98DE\u884C\u68CB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\Xuexi\\c#lesson\\\u98DE\u884C\u68CB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Games\\Xuexi\\c#lesson\\\u98DE\u884C\u68CB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T02:03:36.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
