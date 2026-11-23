@@ -1,0 +1,17 @@
+[
+{"id":1,"name":"无双1","state":0,"isNew":false},
+{"id":2,"name":"无双2","state":1,"isNew":false},
+{"id":3,"name":"无双3","state":2,"isNew":false},
+{"id":4,"name":"无双4","state":3,"isNew":false},
+{"id":5,"name":"无双5","state":4,"isNew":false},
+{"id":6,"name":"无双6","state":1,"isNew":false},
+{"id":7,"name":"无双7","state":2,"isNew":false},
+{"id":8,"name":"无双8","state":3,"isNew":false},
+{"id":9,"name":"无双9","state":0,"isNew":false},
+{"id":10,"name":"无双10","state":1,"isNew":false},
+{"id":11,"name":"无双11","state":2,"isNew":false},
+{"id":12,"name":"无双12","state":3,"isNew":false},
+{"id":13,"name":"无双13","state":4,"isNew":false},
+{"id":14,"name":"无双14","state":0,"isNew":true},
+{"id":15,"name":"无双15","state":1,"isNew":true}
+]
