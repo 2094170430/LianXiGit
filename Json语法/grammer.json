@@ -1,0 +1,13 @@
+{
+"name":"MengYuan",
+"atk":100,
+"def":10,
+"moveSpeed":12.1,
+"roundSpeed":10.0,
+"weapon":{"id":1,"num":1},
+"listInt":[1,2,3,4,5],
+"itemList":[{"id":2,"num":2},{"id":3,"num":3},{"id":4,"num":4}],
+"itemDic":{"1":{"id":4,"num":5},"2":{"id":5,"num":6}},
+"privateI":1,
+"protectedI":2
+}

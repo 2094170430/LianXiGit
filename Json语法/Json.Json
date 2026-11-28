@@ -1,0 +1,9 @@
+[
+{"Hp":100,"Atk":10,"Def":2,"MoveSpeed":10,"HeadSpeed":5},
+{"Hp":80,"Atk":8,"Def":5,"MoveSpeed":10,"HeadSpeed":5},
+{"Hp":85,"Atk":10,"Def":9,"MoveSpeed":10,"HeadSpeed":5},
+{"Hp":10,"Atk":100,"Def":0,"MoveSpeed":10,"HeadSpeed":5},
+{"Hp":100,"Atk":5,"Def":10,"MoveSpeed":2,"HeadSpeed":2},
+{"Hp":50,"Atk":10,"Def":0,"MoveSpeed":30,"HeadSpeed":30},
+
+]
